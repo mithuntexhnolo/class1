@@ -1,0 +1,9 @@
+Wed Oct  5 07:00:44 UTC 2022
+abc.txt
+devops
+hello2.sh
+hello.sh
+loki
+python.txt
+redirect.txt
+reD.SH
