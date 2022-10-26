@@ -136,3 +136,71 @@ pwd
 mkdir wallmart
 cd wallmart
 pwd
+git push wm master
+git status
+git commit -m "Initital commit"
+git status
+git push wm master
+Shaslok@123
+git push wm master
+exit
+git --version
+mkdir wallmart
+ls
+git init
+ls -la
+ls -la
+vi employee.java
+gitstatus
+git status
+vi deploy.ja
+vi deply.jaja
+vi deploy.java
+git status
+git add.
+git status
+git add.
+git add .
+git status
+git config --global user.name "lokesh"
+git config --global user.email "lokeshlok550@gmail.com"
+git config  --global --list
+git remote add
+git remote add wm 
+git remote wm https://github.com/mithuntexhnolo/class1.git
+git remote add wm https://github.com/mithuntexhnolo/class1.git
+git remote -v
+git push wm master
+git push wm master
+gh auth login
+type -p curl >/dev/null || sudo apt install curl -y
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null sudo apt update sudo apt install gh -y
+type -p curl >/dev/null || sudo apt install curl -y
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt update && sudo apt install gh -y
+type -p curl >/dev/null || sudo apt install curl -y
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpgsudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg \echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null sudo apt update 
+type -p curl >/dev/null || sudo apt install curl -y
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null 
+sudo apt update
+sudo apt install gh
+sudo apt update
+type -p curl >/dev/null || sudo apt install curl -y
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt update && sudo apt install gh -y
+clear
+sudo dnf install 'dnf-command(config-manager)'
+sudo dnf config-manager --add-repo https://cli.github.com/packages/rpm/gh-cli.repo
+sudo dnf install gh
+clear
+sudo yum-config-manager --add-repo https://cli.github.com/packages/rpm/gh-cli.repo
+sudo yum install gh
+sudo yum update gh
+sudo apt update
+sudo apt install gh
+git push wm master
+git push
+git push wm master
+lokeshlok550
+Sahslok@123
+git push wm master
+git log
